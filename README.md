@@ -1,3 +1,2 @@
-# book-santa-stage-13
-
-solution for 92
+# laptop information app 
+my own app
